@@ -1,7 +1,5 @@
 [core]
-    remote = dagshb
-['remote "dagshb"']
-    url = s3://dvc
+    remote = origin
 ['remote "origin"']
     url = s3://dvc
     endpointurl = https://dagshub.com/roy240699/sentiment-dvc-data.s3
